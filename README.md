@@ -5,7 +5,7 @@ artificial license plate recognition (ALPR). The project was developed as an
 interactive demo that combines SVG animation, state‑driven business logic, and a
 chatbot powered by OpenRouter for rule‑based reasoning.
 
-[![Demo]()](https://drive.google.com/drive/folders/1X0X2UoJCL33m1UQgYf8EglZ8poGRuihW?usp=sharing](https://drive.google.com/drive/folders/1e56n3S0yjZ3pHlQf7-uRyTGI1puGuyWi?usp=sharing))
+[![Demo]()](https://drive.google.com/file/d/1i7v_YjxpWw2cNqxnOSFwAmsCH9BARrg3/view?usp=drive_link))
 [![Live Link]()](https://smart-park-bamx.onrender.com))
 
 ## 🚗 Key Featur
@@ -83,4 +83,5 @@ This project is released under the [MIT License](LICENSE).
 
 > Developed by Rahim Farhat (or appropriate author) for demonstration
 > purposes. Feel free to fork and adapt!
+
 
